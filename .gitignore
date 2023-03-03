@@ -3,3 +3,4 @@ venv11/
 __pycache__/
 *.exe
 *.log
+Key.py
